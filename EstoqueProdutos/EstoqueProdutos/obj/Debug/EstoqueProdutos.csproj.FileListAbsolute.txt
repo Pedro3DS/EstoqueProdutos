@@ -1,0 +1,10 @@
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\bin\Debug\EstoqueProdutos.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\bin\Debug\EstoqueProdutos.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\bin\Debug\EstoqueProdutos.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.main.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.pdb

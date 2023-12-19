@@ -1,6 +1,6 @@
 ﻿namespace EstoqueProdutos
 {
-    partial class Form1
+    partial class main
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -28,13 +28,73 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(main));
+            this.btnProductsScreen = new System.Windows.Forms.Button();
+            this.btnAddScreen = new System.Windows.Forms.Button();
+            this.btnUpdateScreen = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnProductsScreen
+            // 
+            this.btnProductsScreen.FlatAppearance.BorderSize = 0;
+            this.btnProductsScreen.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnProductsScreen.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnProductsScreen.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnProductsScreen.Location = new System.Drawing.Point(12, 12);
+            this.btnProductsScreen.Name = "btnProductsScreen";
+            this.btnProductsScreen.Size = new System.Drawing.Size(442, 49);
+            this.btnProductsScreen.TabIndex = 0;
+            this.btnProductsScreen.Text = "Produtos";
+            this.btnProductsScreen.UseVisualStyleBackColor = true;
+            // 
+            // btnAddScreen
+            // 
+            this.btnAddScreen.FlatAppearance.BorderSize = 0;
+            this.btnAddScreen.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnAddScreen.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAddScreen.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAddScreen.Location = new System.Drawing.Point(470, 12);
+            this.btnAddScreen.Name = "btnAddScreen";
+            this.btnAddScreen.Size = new System.Drawing.Size(442, 49);
+            this.btnAddScreen.TabIndex = 1;
+            this.btnAddScreen.Text = "Adicionar Produtos";
+            this.btnAddScreen.UseVisualStyleBackColor = true;
+            // 
+            // btnUpdateScreen
+            // 
+            this.btnUpdateScreen.FlatAppearance.BorderSize = 0;
+            this.btnUpdateScreen.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.btnUpdateScreen.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnUpdateScreen.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUpdateScreen.Location = new System.Drawing.Point(928, 12);
+            this.btnUpdateScreen.Name = "btnUpdateScreen";
+            this.btnUpdateScreen.Size = new System.Drawing.Size(442, 49);
+            this.btnUpdateScreen.TabIndex = 2;
+            this.btnUpdateScreen.Text = "Modificar Produtos";
+            this.btnUpdateScreen.UseVisualStyleBackColor = true;
+            // 
+            // main
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(1382, 753);
+            this.Controls.Add(this.btnUpdateScreen);
+            this.Controls.Add(this.btnAddScreen);
+            this.Controls.Add(this.btnProductsScreen);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "main";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Estoque de Produtos";
+            this.Load += new System.EventHandler(this.main_Load);
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnProductsScreen;
+        private System.Windows.Forms.Button btnAddScreen;
+        private System.Windows.Forms.Button btnUpdateScreen;
     }
 }
 
