@@ -9,3 +9,5 @@ C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\Estoqu
 C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.exe
 C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.pdb
 C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.screens.productsScreen.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.screens.addProductScreen.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.screens.updateProductScreen.resources

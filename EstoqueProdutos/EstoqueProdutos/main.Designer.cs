@@ -47,6 +47,7 @@
             this.btnProductsScreen.TabIndex = 0;
             this.btnProductsScreen.Text = "Produtos";
             this.btnProductsScreen.UseVisualStyleBackColor = true;
+            this.btnProductsScreen.Click += new System.EventHandler(this.btnProductsScreen_Click);
             // 
             // btnAddScreen
             // 
@@ -60,6 +61,7 @@
             this.btnAddScreen.TabIndex = 1;
             this.btnAddScreen.Text = "Adicionar Produtos";
             this.btnAddScreen.UseVisualStyleBackColor = true;
+            this.btnAddScreen.Click += new System.EventHandler(this.btnAddScreen_Click);
             // 
             // btnUpdateScreen
             // 
@@ -73,6 +75,7 @@
             this.btnUpdateScreen.TabIndex = 2;
             this.btnUpdateScreen.Text = "Modificar Produtos";
             this.btnUpdateScreen.UseVisualStyleBackColor = true;
+            this.btnUpdateScreen.Click += new System.EventHandler(this.btnUpdateScreen_Click);
             // 
             // mainPanel
             // 
