@@ -8,3 +8,4 @@ C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\Estoqu
 C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.csproj.CoreCompileInputs.cache
 C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.exe
 C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\EstoqueProdutos\EstoqueProdutos\EstoqueProdutos\obj\Debug\EstoqueProdutos.screens.productsScreen.resources
