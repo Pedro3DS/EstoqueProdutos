@@ -32,6 +32,7 @@
             this.btnProductsScreen = new System.Windows.Forms.Button();
             this.btnAddScreen = new System.Windows.Forms.Button();
             this.btnUpdateScreen = new System.Windows.Forms.Button();
+            this.mainPanel = new System.Windows.Forms.Panel();
             this.SuspendLayout();
             // 
             // btnProductsScreen
@@ -73,11 +74,19 @@
             this.btnUpdateScreen.Text = "Modificar Produtos";
             this.btnUpdateScreen.UseVisualStyleBackColor = true;
             // 
+            // mainPanel
+            // 
+            this.mainPanel.Location = new System.Drawing.Point(12, 67);
+            this.mainPanel.Name = "mainPanel";
+            this.mainPanel.Size = new System.Drawing.Size(1358, 674);
+            this.mainPanel.TabIndex = 3;
+            // 
             // main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1382, 753);
+            this.Controls.Add(this.mainPanel);
             this.Controls.Add(this.btnUpdateScreen);
             this.Controls.Add(this.btnAddScreen);
             this.Controls.Add(this.btnProductsScreen);
@@ -95,6 +104,7 @@
         private System.Windows.Forms.Button btnProductsScreen;
         private System.Windows.Forms.Button btnAddScreen;
         private System.Windows.Forms.Button btnUpdateScreen;
+        private System.Windows.Forms.Panel mainPanel;
     }
 }
 
